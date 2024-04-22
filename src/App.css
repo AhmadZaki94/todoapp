@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.editIcon:hover{
+  cursor: pointer;
+}
+
+.deleteIcon:hover{
+  cursor: pointer;
+}
+
+.lineTh{
+  text-decoration: line-through;
+  color: red;
+}
